@@ -1,2 +1,2 @@
 # react-todo
-Created with CodeSandbox
+Latihan membuat react todo dengan reactjs (hooks)
